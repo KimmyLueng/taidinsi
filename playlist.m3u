@@ -1,0 +1,14 @@
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:1 group-title="TVB" tvg-id="tvb/tvbplus" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] TVB Plus
+https://o11.kimmy.us.kg/stream/tvb/tvbplus/master.m3u8?u=Admin&p=5640e7a921390e3829ab2173808e017d61ccfde51b310ffb10d42a9acb7382a8
+
+#EXTINF:2 group-title="TVB" tvg-id="tvb/null-2" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 明珠台
+https://o11.kimmy.us.kg/stream/tvb/null-2/master.m3u8?u=Admin&p=5640e7a921390e3829ab2173808e017d61ccfde51b310ffb10d42a9acb7382a8
+
+#EXTINF:3 group-title="TVB" tvg-id="tvb/null-1" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 無線新聞台
+https://o11.kimmy.us.kg/stream/tvb/null-1/master.m3u8?u=Admin&p=5640e7a921390e3829ab2173808e017d61ccfde51b310ffb10d42a9acb7382a8
+
+#EXTINF:4 group-title="TVB" tvg-id="tvb/null" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 翡翠台
+https://o11.kimmy.us.kg/stream/tvb/null/master.m3u8?u=Admin&p=5640e7a921390e3829ab2173808e017d61ccfde51b310ffb10d42a9acb7382a8
+
